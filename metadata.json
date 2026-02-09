@@ -1,0 +1,8 @@
+{
+  "name": "GenieAI Hub",
+  "description": "A powerful AI-driven content and image generation platform powered by Gemini, optimized for monetization and performance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
